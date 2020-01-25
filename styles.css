@@ -1,24 +1,37 @@
 h1 {
-    color: red; 
-    font-size: 50px; 
+    color: black; 
+    font-size: 75px; 
+    text-align: center;
 }
 h2 {
-    color:seagreen
+    color: purple;
+    font-size:50px; 
+    text-align: center; 
 }
-h1,h2{
-    color: purple
-}
-h1{
-    color: red
-}
-li{
-    color: orange
-}
-h1{
 
-    border-style: groove;
+h3
+{
+    color: purple;
+    font-size:50px; 
+    text-align: center;
 }
-h1 {
 
-    background-image:url("lanternbackground.jpg")
-}
+.jumbotron {
+    background: url("beach.jpeg");
+    background-size: 100%;
+    color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: normal;
+    text-align: center;
+    
+  }
+
+  .jumbotron2 {
+    text-align: center;
+
+  }
+  .card {
+      min-height: 200px ;
+      max-height: fit-content;
+  }
