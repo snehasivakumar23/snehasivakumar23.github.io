@@ -5,8 +5,9 @@ h1 {
 }
 h2 {
     color: purple;
-    font-size:50px; 
+    font-size:75px; 
     text-align: center; 
+
 }
 
 h3
@@ -17,26 +18,31 @@ h3
 }
 
 .jumbotron {
-    background: url("beach.jpeg");
     background-size: 100%;
     color: black;
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: normal;
     text-align: center;
+    width: 100%;
     
   }
 
   .jumbotron2 {
     text-align: center;
+    background-size: 100%;
+    width: 100%;
 
   }
   .card {
       min-height: 200px ;
       max-height: fit-content;
+      width: 100%;
   }
 
   
   .jumbotron3 {
     text-align: center;
+    background-size: 100%;
+    width: 100%;
      }
