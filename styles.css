@@ -42,7 +42,16 @@ h3
 
   
   .jumbotron3 {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: normal;
     text-align: center;
-    background-size: 100%;
     width: 100%;
      }
+
+     h4
+{
+    color: black;
+    font: size 75px ; 
+    text-align: left;
+}
